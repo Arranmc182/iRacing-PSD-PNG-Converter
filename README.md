@@ -19,7 +19,7 @@ Built for speed, accuracy, and ease of use.
 
 ### ✔ Full‑Resolution PNG Export
 - Exports the final composite at full size  
-- Perfect for uploading to iRacing
+- Perfect for uploading to Trading Paints
 
 ### ✔ Layer Visibility Control
 - Full PSD layer tree  
