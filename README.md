@@ -43,7 +43,7 @@ Built for speed, accuracy, and ease of use.
 
 ---
 
-## 📦 Requirements
+## 📦 Requirements (if running direct from python souce code)
 
 Install dependencies with:
 
