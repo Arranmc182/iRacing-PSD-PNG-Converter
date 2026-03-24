@@ -1,4 +1,5 @@
 <img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/e5df0c65-72e8-4b03-84d8-71aad50d1871" />
+<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/a50bf8eb-a775-4016-bb52-b993603bc66a" />
 
 # 🎨 iRacing PSD → PNG Converter  
 
