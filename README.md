@@ -1,5 +1,4 @@
 # 🎨 iRacing PSD → PNG Converter  
-### High‑Performance Multiprocessing Edition
 
 This tool is a fast, modern, and user‑friendly PSD‑to‑PNG converter designed specifically for **iRacing paint templates**. It allows creators to preview and export liveries with full control over layer visibility — all wrapped in a smooth PySide6 interface with cinematic UI touches.
 
